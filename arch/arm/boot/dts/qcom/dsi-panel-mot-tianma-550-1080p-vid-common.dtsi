@@ -22,7 +22,6 @@ qcom,mdss-dsi-panel-height = <1920>;
 qcom,mdss-pan-physical-width-dimension = <68>;
 qcom,mdss-pan-physical-height-dimension = <121>;
 qcom,ulps-enabled;
-qcom,suspend-ulps-enabled;
 qcom,panel-allow-phy-poweroff;
 qcom,mdss-dsi-panel-clockrate = <839000000>;
 qcom,mdss-dsi-h-front-porch = <96>;

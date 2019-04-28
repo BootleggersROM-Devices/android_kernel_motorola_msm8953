@@ -22,7 +22,6 @@ qcom,mdss-dsi-panel-height = <1920>;
 qcom,mdss-pan-physical-width-dimension = <62>;
 qcom,mdss-pan-physical-height-dimension = <110>;
 qcom,ulps-enabled;
-qcom,suspend-ulps-enabled;
 qcom,panel-allow-phy-poweroff;
 qcom,mdss-dsi-h-front-porch = <20>;
 qcom,mdss-dsi-h-back-porch = <52>;
